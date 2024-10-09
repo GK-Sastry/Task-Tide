@@ -25,7 +25,7 @@ To run Task Tide on your local machine, follow these steps:
 
 ### Installation
 
-1. Clone this repository to your local machine: https://github.com/ajaykumar703/Task-Manager.git
+1. Clone this repository to your local machine: https://github.com/GK-Sastry/Task-Tide.git
 2. Open the project in Android Studio.
 3. Build the project and run it on an Android emulator or a physical device.
 
